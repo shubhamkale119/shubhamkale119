@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **shubhamkale9112@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1j-mBLz6RPs68sG-ZNffnVg74CzakrXMe/view?usp=sharing](https://drive.google.com/file/d/1j-mBLz6RPs68sG-ZNffnVg74CzakrXMe/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/shubham-kale-141b48212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shubham-kale-141b48212" height="30" width="40" /></a>
