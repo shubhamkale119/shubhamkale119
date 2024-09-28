@@ -14,7 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/shubham-kale-141b48212/" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="Shubham Kale LinkedIn" height="30" width="40" />
+    <img align="center" src="![image](https://github.com/user-attachments/assets/bc711377-71a8-4a0f-b54b-b70644e8b515)
+" alt="Shubham Kale LinkedIn" height="30" width="40" />
   </a>
 </p>
 
